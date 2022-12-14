@@ -5,9 +5,9 @@
 # https://confluence.hl7.org/display/FHIR/NPM+Package+Specification#NPMPackageSpecification-Packagename
 id: ch.fhir.ig.ch-lab-lrph
 canonical: http://fhir.ch/ig/ch-lab-lrph
-name: CH_IG
-title: "CH IG (R4)"
-description: Implementation Guide CH IG Lab-LRPH (R4) for messaging of lab results in public health
+name: CH_LAB_LRPH
+title: "CH LAB-LRPH (R4)"
+description: Implementation Guide CH IG LAB-LRPH (R4) for messaging of lab results in public health
 status: draft
 license: CC-BY-SA-4.0
 copyright: CC-BY-SA-4.0
